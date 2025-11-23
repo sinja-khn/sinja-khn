@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apisinja-khn=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sinja-khn=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
