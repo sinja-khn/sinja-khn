@@ -1,7 +1,8 @@
-## Hi there 👋
+# 👋🏽 Hi there, I'm Sinja 👩🏽‍💻
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinja-khn)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <img src="HelloWorld.png" width="300" alt="text taht says Hello World!"/>
+</p>
 
 
 <!--
